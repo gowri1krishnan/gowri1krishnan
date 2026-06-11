@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently a member of TEDxMVJCE
 - 🌱 Always learning, always growing.
 - 👯 I’m looking to collaborate on fun projects
 - 😄 Pronouns: She/Her
